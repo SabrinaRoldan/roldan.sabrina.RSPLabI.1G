@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1627604446 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"roldan.h"
+
+1627603543 c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\bicicleta.h
+	"LinkedList.h"
+
+1627603074 c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\linkedlist.h
+
+1627603074 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627603867 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"bicicleta.h"
+	<time.h>
+
+1627600000 c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\controller.h
+
+1627598792 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"bicicleta.h"
+
+1627597495 c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\parser.h
+	"LinkedList.h"
+
+1621467414 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\roldan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"roldan.h"
+
+1621466440 c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\roldan.h
+
+1627603780 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rsplabi.1g\roldan.sabrina.rsplabi.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+	"roldan.h"
+	<time.h>
+
